@@ -4,6 +4,7 @@ import Hero from "./components/Hero/Hero"
 import Navbar from "./components/Navbar/Navbar"
 import Service from "./components/Service/Service"
 import Testimonial from "./components/Testimonial/Testimonial"
+import Footer from "./components/Footer/Footer"
 
 
 
@@ -18,6 +19,7 @@ function App() {
      <Banner/>
      <AppStore/>
     <Testimonial/>
+    <Footer/>
     </div>
   )
 }
